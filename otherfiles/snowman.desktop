@@ -1,10 +1,8 @@
 [Desktop Entry]
 Name=Snowman
 Comment=Snowman
-#Icon=/icon/directory//here/itsname.png
 Exec=/home/pi/snowman/snowman/snowman.sh
 Type=Application
-Encoding=UTF-8
 Terminal=false
 Categories=None;
 
